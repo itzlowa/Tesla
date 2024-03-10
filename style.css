@@ -1,0 +1,121 @@
+.d1{
+    width: 100vw;
+    height: 8vh;
+    background-color: black;
+
+    color:white;
+    font-family: Gotham ssm;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.body{
+    margin: 0;
+    
+}
+.d2{
+    font-weight: 500;
+    font-size: 17px;
+    margin-left:-140px;
+}
+.d3{
+    font-size: 14px;
+}
+.a1{
+    color: white;
+    font-size: 14px;
+    margin-left: 15px;
+    text-underline-offset: 3px;
+}
+.d4{
+    width: 100vw;
+    height: 92vh;
+    background-color:transparent;
+    position: fixed;
+}
+.img1{
+    width: 120px;
+    margin-left:50px ;
+    margin-top: 21px;
+}
+.list1{
+    list-style: none;
+    margin-left: 275px;
+    margin-top: -17px;
+}
+.li1{
+    color: white;
+    font-family: Gotham ssm;
+    font-size: 14px;
+    font-weight: 500;
+    display: inline;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.list2{
+    list-style: none;
+    margin-left:1190px ;
+    margin-top: -35px;
+}
+.d5{
+    color: white;
+    font-size: 40px;
+    font-family: Gotham ssm;
+    font-weight: 500;
+
+    justify-content: center;
+    display: flex;
+
+    margin-left: -15px;
+    margin-top: 30px;
+}
+.d6{
+    color: white;
+    font-size: 14px;
+    font-family: Gotham ssm;
+
+    display: flex;
+    justify-content: center;
+
+    margin-left: -15px;
+    margin-top: 5px;
+}
+.d7{
+    justify-content: center;
+    display: flex;
+    margin-top: 350px;
+}
+.btn{
+    width: 256px;
+    height: 40px;
+    margin-left: -15px;
+    margin-top: -2px;
+
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: Gotham ssm;
+
+    background-color: transparent;
+
+    border-style: solid;
+    border-radius: 3px;
+    border-color: white;
+    cursor: pointer;
+}
+.video{
+    
+    position: fixed;
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+}
+.d8{
+    width:100vw ;
+    height:92vh ;
+    color: black;
+}
+.li1:hover{
+    color:rgb(118, 113, 113);
+}
